@@ -108,7 +108,7 @@ I'm looking for an opportunity to grow as a finance professional.
 - Financial Analyst
 - SQL
 - Power BI
-- HR Generalist Practices (Udemy)
+  
 
 ## Data and sources
 
@@ -148,7 +148,7 @@ hdfc_summary.png                   summary preview
 ## Contact
 
 **B. Sreeja** | Mumbai, India
-Email: [sreeja243b@gmail.com](mailto:sreeja243b@gmail.com)
+Email: [bsreeja23@gmail.com](mailto:bsreeja23@gmail.com)
 
 GitHub: [github.com/sreeja-243](https://github.com/sreeja-243)
 
