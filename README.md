@@ -100,10 +100,15 @@ I'm looking for an opportunity to grow as a finance professional.
 ## Education and certifications
 
 - BBA in Banking and Finance, Jain (Deemed-to-be University), Bangalore, 2022 to 2025. CGPA 8.52
+
+**Certifications** ([view certificates](https://drive.google.com/drive/folders/1JClI-19izYLuRreAwXWRq5XqFog0jLwt))
+- MS Excel: Beginner to Advanced
 - Advanced Excel (Udemy)
+- Excel Using AI (Be10x workshop)
+- Financial Analyst
+- SQL
+- Power BI
 - HR Generalist Practices (Udemy)
-- Excel Using AI Workshop (Be10x)
-- [Certificates](https://drive.google.com/drive/folders/1Dex55DiEAYplRLFDqPmvpr9-BgIqX8gz)
 
 ## Data and sources
 
@@ -144,7 +149,7 @@ hdfc_summary.png                   summary preview
 
 **B. Sreeja** | Mumbai, India
 Email: [sreeja243b@gmail.com](mailto:sreeja243b@gmail.com)
-LinkedIn: [linkedin.com/in/sreeja-b-2141b1447](https://www.linkedin.com/in/sreeja-b-2141b1447/)
+
 GitHub: [github.com/sreeja-243](https://github.com/sreeja-243)
 
 ---
